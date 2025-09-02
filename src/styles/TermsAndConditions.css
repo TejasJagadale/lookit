@@ -167,8 +167,8 @@
 
   .terms-header {
     background: #540c97 !important;
-    -webkit-print-color-adjust: exact;
-    color-adjust: exact;
+    /* -webkit-print-color-adjust: exact;
+    color-adjust: exact; */
   }
 
   .terms-content {
