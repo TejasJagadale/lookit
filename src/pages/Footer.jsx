@@ -22,7 +22,7 @@ const Footer = () => {
         <div className="footer-section">
           <h3>Download Our App</h3>
           <div className="download-links">
-            <a href="#" className="download-link">
+            <a href="https://play.google.com/store/apps/details?id=com.makkal.calendar" className="download-link">
               <svg className="store-icon" viewBox="0 0 24 24">
                 <path
                   fill="currentColor"
