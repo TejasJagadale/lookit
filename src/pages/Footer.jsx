@@ -40,7 +40,7 @@ const Footer = () => {
         <div className="footer-section">
           <h3>Follow Us</h3>
           <div className="social-icons">
-            <a href="#" className="social-icon" aria-label="Facebook">
+            <a href="https://www.facebook.com/share/1Cfuh8mwVH/" className="social-icon" aria-label="Facebook">
               <svg viewBox="0 0 24 24">
                 <path
                   fill="currentColor"
@@ -48,7 +48,7 @@ const Footer = () => {
                 />
               </svg>
             </a>
-            <a href="#" className="social-icon" aria-label="Instagram">
+            <a href="https://www.instagram.com/readers_menu?igsh=bml4emczZXU5ZXV6" className="social-icon" aria-label="Instagram">
               <svg viewBox="0 0 24 24">
                 <path
                   fill="currentColor"
@@ -56,7 +56,7 @@ const Footer = () => {
                 />
               </svg>
             </a>
-            <a href="#" className="social-icon" aria-label="YouTube">
+            <a href="https://youtube.com/@readers_menu?si=uUI_8NeVUYGtRune" className="social-icon" aria-label="YouTube">
               <svg viewBox="0 0 24 24">
                 <path
                   fill="currentColor"
